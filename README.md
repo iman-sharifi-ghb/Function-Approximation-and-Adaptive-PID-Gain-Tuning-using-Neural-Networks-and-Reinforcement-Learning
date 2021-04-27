@@ -1,8 +1,8 @@
-# Function-Approximation-and-Adaptive-PID-Gain-Tuning-using-Neural-Networks
-System Identification and Self-Tuning PID Control using NN
+# Function-Approximation-and-Adaptive-PID-Gain-Tuning-using-Neural-Networks-and-Actor-Critic-algorithm
+System Identification and Self-Tuning PID Control using NN and reinforcement learning
 
-you can read the attached pdf file for learning algorithm and structures.
+You can read the attached pdf file for learning algorithm and structures.
 
 To see the results, you can run the .m file in matlab.
 
-if you want to change the dynamic system, you can change the function "NonLinDynamic" in .m file.
+If you want to change the dynamic system, Please just change the function "NonLinDynamic" in .m file.
