@@ -9,6 +9,10 @@ PID_FA_NN.m :
     
     You can read the attached "PID Neural Networks.pdf" file for learning algorithm and structures.
 
+![PID_FA_NN](https://user-images.githubusercontent.com/60617560/129597840-e8d9f399-4de6-4a1a-8218-b4fd27fd5570.png)
+
+![PID_gains](https://user-images.githubusercontent.com/60617560/129597930-453bcfa4-9962-4000-905a-179b3a898e61.png)
+
 FA_A2C.m :
 
     Function Approximation using Actor-Critic Algorithm
