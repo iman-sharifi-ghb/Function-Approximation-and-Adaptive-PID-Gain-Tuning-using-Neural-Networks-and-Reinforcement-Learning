@@ -12,5 +12,7 @@ PID_FA_NN.m :
 FA_A2C.m :
 
     Function Approximation using Actor-Critic Algorithm
+    ![FA_A2C](https://user-images.githubusercontent.com/60617560/129596768-e3680e6c-bc19-4833-b5cb-73681c8fb1ef.png)
+
 
 If you want to change the dynamic system, Please just change the function "NonLinDynamic" in .m file.
