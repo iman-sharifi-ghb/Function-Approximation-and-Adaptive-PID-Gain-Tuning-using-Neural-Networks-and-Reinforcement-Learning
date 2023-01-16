@@ -14,9 +14,9 @@
 
 ![PID_gains](https://user-images.githubusercontent.com/60617560/129597930-453bcfa4-9962-4000-905a-179b3a898e61.png)
 
-'FA_A2C.m' :
+`FA_A2C.m` :
 
     Function Approximation using Actor-Critic Algorithm
 ![FA_A2C](https://user-images.githubusercontent.com/60617560/129596768-e3680e6c-bc19-4833-b5cb-73681c8fb1ef.png)
 
-If you want to change the dynamic system, Please just change the `NonLinDynamic` function in .m file.
+If you want to change the dynamic system, Please just change the `NonLinDynamic` function in MATLAB files.
