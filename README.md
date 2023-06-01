@@ -2,6 +2,8 @@
 
 **System Identification and Self-Tuning PID Control using NN and reinforcement learning**
 
+In this project, we will aim to tune the PID controller gains adaptively using Actor-Critic method with the radial basis or guassian kernels. We assume we don't have an accurate model of the system and that is why we take the advantage of Neural Networks to estimate the dynamical model of the system and then use the achieved model to find the best PID gains using Actor-Critic Reinforcement Learning method.
+
 ## Notes
 
 `PID_FA_NN.m` : 
